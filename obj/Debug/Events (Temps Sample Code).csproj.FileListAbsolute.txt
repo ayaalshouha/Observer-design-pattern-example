@@ -1,0 +1,7 @@
+C:\Users\lenovo\Desktop\Coding\Events (Temps Sample Code)\bin\Debug\Events (Temps Sample Code).exe.config
+C:\Users\lenovo\Desktop\Coding\Events (Temps Sample Code)\bin\Debug\Events (Temps Sample Code).exe
+C:\Users\lenovo\Desktop\Coding\Events (Temps Sample Code)\bin\Debug\Events (Temps Sample Code).pdb
+C:\Users\lenovo\Desktop\Coding\Events (Temps Sample Code)\obj\Debug\Events (Temps Sample Code).csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Coding\Events (Temps Sample Code)\obj\Debug\Events (Temps Sample Code).csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Coding\Events (Temps Sample Code)\obj\Debug\Events (Temps Sample Code).exe
+C:\Users\lenovo\Desktop\Coding\Events (Temps Sample Code)\obj\Debug\Events (Temps Sample Code).pdb
